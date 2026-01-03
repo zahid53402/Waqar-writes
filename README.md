@@ -1,12 +1,12 @@
-# AKING
+# Waqar writes
 PAID TOOLS
-<b></b> </br> <br>[![Github](https://github.com/zahid53402/Waqar-writes.git)](https://github.com/zahid53402/Waqar-writes.git)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://whatsapp.com/channel/0029VbByxsO1dAwCpYtLJ71Z)](https://wa.me/+923127600975)
+<b></b> </br> <br>[![Github](https://github.com/zahid53402/Waqar-writes.git)]()<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://whatsapp.com/channel/0029VbByxsO1dAwCpYtLJ71Z)](https://wa.me/+923127600975)
 
 
 
 <h1 align="center"> [Waqar writes]</h1>
 
-<h2 align="center">  FB CLONING TOOL </h2>
+<h2 align="center">  ALL HACKING TOOL </h2>
 
 
 ## <b>installation</b>
@@ -22,7 +22,7 @@ PAID TOOLS
 - `pip install mechanize`
 - `pip install bs4`
 -`git clone --depth=1 (https://github.com/zahid53402/Waqar-writes.git)`
-- `cd `
+- `cd Waqar-writes`
 - `python Waqarwrites.py`
 
 
