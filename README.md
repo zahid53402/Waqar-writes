@@ -1,6 +1,6 @@
 # Waqar writes
 PAID+FREE TOOLS
-<b></b> </br> <br>[![Github](https://github.com/zahid53402/Waqar-writes.git)]()<br> [![Facebook](https://www.facebook.com/share/v/1aPc8UtBcZ/)](https://www.facebook.com/share/v/1aPc8UtBcZ/)<br> [![Whatsapp](https://whatsapp.com/channel/0029VbByxsO1dAwCpYtLJ71Z)](https://wa.me/+923127600975)
+<b></b> </br> <br>[![Github](https://github.com/zahid53402/Waqar-writes.git)]()<br> [![Facebook](https://www.facebook.com/share/14Sxa12GM3n/)](https://www.facebook.com/share/14Sxa12GM3n/)<br> [![Whatsapp](https://whatsapp.com/channel/0029VbByxsO1dAwCpYtLJ71Z)](https://wa.me/+923127600975)
 
 
 
