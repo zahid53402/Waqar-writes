@@ -21,11 +21,11 @@ PAID+FREE TOOLS
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `git clone --depth=1 (https://github.com/zahid53402/Waqar-writes.git)`
+- `git clone https://github.com/zahid53402/Waqar-writes.git`
 - `cd Waqar-writes`
 - `python Waqarwrites.py`
 
 
 
  ___This Tools is Paid___</br>
- [![Whatsapp](https://whatsapp.com/channel/0029VbByxsO1dAwCpYtLJ71Z)](https://wa.me/+923127600975)
+ [![Whatsapp](https://whatsapp.com/channel/0029VbC8W9IBlHphHT2jK93B)](https://wa.me/+923497083071)
