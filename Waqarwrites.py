@@ -3,7 +3,7 @@ try:import httpx
 except:os.system('pip install httpx > /dev/null')
 try:import requests
 except:os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
-os.system('xdg-open https://whatsapp.com/channel/0029VbByxsO1dAwCpYtLJ71Z')
+os.system('xdg-open https://whatsapp.com/channel/0029VbC8W9IBlHphHT2jK93B')
 os.system('git pull')
 from platform import uname
 bt=uname().machine.lower()
